@@ -32,7 +32,8 @@ class Example extends React.Component {
 
     <div align="center" >
     <p></p><p></p><p></p>
-      <a href="https://optimistic-bhaskara-997e12.netlify.com">BackToHome</a>
+      <a href="http://localhost:8000">BackToHome</a>
+
     </div>
 
       	</Layout>
@@ -46,3 +47,4 @@ class Example extends React.Component {
 
 }
  export default Example;
+  /*    //<a href="https://optimistic-bhaskara-997e12.netlify.com">BackToHome</a>*/

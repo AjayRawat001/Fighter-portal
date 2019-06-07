@@ -97,17 +97,17 @@ class Index extends React.Component {
 							</li>
 							<li>
 							<span> <img src={spidr} alt="" width="200" height="100" /> </span>
-								<h3>Thor</h3>
+								<h3>Spider-Man</h3>
 								<a href ="https://www.superherostuff.com/biographies/spideybio.html">ReadMore</a>
 							</li>
 							<li>
 							<span> <img src={bat} alt="" width="200" height="100" /> </span>
-								<h3>Thor</h3>
+								<h3>Bat-Man</h3>
 								<a href ="https://en.wikipedia.org/wiki/Batman">ReadMore</a>
 							</li>
 							<li>
 							<span> <img src={ant} alt="" width="200" height="100" /> </span>
-								<h3>Thor</h3>
+								<h3>Ant-Man</h3>
 								<a href ="https://mashable.com/article/ant-man-good-superhero-movie/">ReadMore</a>
 							</li>
 						</ul>

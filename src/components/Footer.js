@@ -56,7 +56,7 @@ const Footer = props => (
 			</ul>
 		</section>
 		<p className="copyright">
-			&copy; The Fighter portalo Pvt Ltd 
+			&copy; The Fighter portal Pvt Ltd 
 		</p>
 	</footer>
 );
