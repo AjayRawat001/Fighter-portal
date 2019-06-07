@@ -4,7 +4,7 @@ import Helmet from 'react-helmet';
 import { Waypoint } from 'react-waypoint';
 
 import Layout from '../components/layout';
-import Header from '../components/Header';
+import Header from '../components/header';
 import Nav from '../components/Nav';
 import pic01 from '../assets/images/pic01.png';
 import ant from '../assets/images/ant.png';
