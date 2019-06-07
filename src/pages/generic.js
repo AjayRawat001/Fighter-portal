@@ -14,7 +14,7 @@ class Generic extends React.Component {
     updateSubmit(event) {
     alert('Thanks for your Valuable Voting for Favorite Superhero and Super-Villain. Please don not go we have something more for you');
     event.preventDefault();
-    window.location.href = "http://localhost:8000/videos";
+    window.location.href = "https://optimistic-bhaskara-997e12.netlify.com/videos";
   }
   render() {
     return (

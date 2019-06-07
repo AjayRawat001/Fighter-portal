@@ -32,7 +32,7 @@ class Example extends React.Component {
 
     <div align="center" >
     <p></p><p></p><p></p>
-      <a href="http://localhost:8000/">BackToHome</a>
+      <a href="https://optimistic-bhaskara-997e12.netlify.com">BackToHome</a>
     </div>
 
       	</Layout>
